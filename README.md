@@ -1,3 +1,4 @@
+# Emoji Cheat Sheet
 # :grinning::smiley::laughing::satisfied::rofl::slightly_smiling_face::wink::innocent::smile::grin::sweat_smile::joy::upside_down_face::blush::smiling_face_with_three_hearts::star_struck::kissing::kissing_closed_eyes::heart_eyes::kissing_heart::relaxed::kissing_smiling_eyes::yum:
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
